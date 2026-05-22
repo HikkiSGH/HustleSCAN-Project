@@ -6,6 +6,8 @@
 
 Чисто идейно делал по той причине что на ПК слишком много хлама для себя но так же выкладываю и тут.
 
+Автор: Лидер Компании Suetolog.Prod
+
 И это просто работает
 
 English
@@ -18,6 +20,8 @@ You only need to enter the extensions you want to search for, and all the files 
 Double-clicking on the row of the column with the location will open the location explorer and highlight the file you have selected.
 
 I did it purely ideologically for the reason that there is too much junk on the PC for myself, but I also post it here.
+
+Author: Leader Of Suetolog.Prod
 
 And it just works. 
 
