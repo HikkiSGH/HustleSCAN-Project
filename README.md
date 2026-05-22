@@ -27,3 +27,14 @@ And it just works.
 
 
 <img width="343" height="510" alt="image" src="https://github.com/user-attachments/assets/0381baf0-f6b2-4033-bfa8-de41cc4a307e" />
+
+
+
+Пример работы программы \ An example of how the program works
+-------------------------------------------------------------------------------------
+
+https://github.com/user-attachments/assets/8aaad8cf-9523-4ea0-91ee-6e842cfc8b4f
+
+
+
+
